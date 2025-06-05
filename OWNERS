@@ -1,27 +1,17 @@
-reviewers:
-- Makdaam
-- Nikokolas3270
-- rafael-azevedo
-- RaphaelBut
-- bng0y
-- typeid
-- tnierman
-- zmird-r
-- joshbranham
-- MateSaary
-- srep-functional-team-orange
 approvers:
-- Makdaam
-- Nikokolas3270
-- rafael-azevedo
-- RaphaelBut
 - bng0y
-- typeid
-- tnierman
-- zmird-r
 - joshbranham
-- MateSaary
+- rafael-azevedo
 - srep-functional-team-orange
 - srep-team-leads
+- tnierman
+- typeid
 maintainers:
 - rafael-azevedo
+reviewers:
+- bng0y
+- joshbranham
+- rafael-azevedo
+- srep-functional-team-orange
+- tnierman
+- typeid
